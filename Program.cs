@@ -11,6 +11,7 @@ namespace _01_HelloWorldGithub
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Github!");
+            // putting some comments just to make colission
         }
     }
 }
