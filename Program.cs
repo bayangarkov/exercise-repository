@@ -10,7 +10,7 @@ namespace _01_HelloWorldGithub
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Github!");
+            Console.WriteLine("Hello Github!"); // trying something now
         }
     }
 }
